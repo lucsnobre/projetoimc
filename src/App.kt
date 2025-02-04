@@ -1,6 +1,11 @@
 import java.time.LocalDate
 import java.util.Scanner
 
+//classe paciente
+//programador: Lucas
+//Data: 04/02/2025
+
+
 fun main() {
 
 
