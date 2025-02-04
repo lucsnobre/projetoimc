@@ -2,6 +2,8 @@ import java.time.LocalDate
 import java.time.Period
 import kotlin.math.pow
 
+//cu gordo
+
 class Paciente {
 
     var nome: String = ""
